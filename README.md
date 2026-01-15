@@ -1,2 +1,2 @@
-# Rooney-Ndereba-Nkando-Structured-Programming-2
+# Rooney-Ndereba-Nkando-Structured-Programming-2 ARRAYS
 ...
